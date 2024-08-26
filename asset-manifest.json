@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tyreplex/static/css/main.ac325801.css",
+    "main.js": "/tyreplex/static/js/main.2c290245.js",
+    "static/js/453.63d7597b.chunk.js": "/tyreplex/static/js/453.63d7597b.chunk.js",
+    "static/media/make_logo_sprite@2x.webp": "/tyreplex/static/media/make_logo_sprite@2x.6a78807625d17e987faf.webp",
+    "static/media/newIconSprite.webp": "/tyreplex/static/media/newIconSprite.b284db5e2ca5258dd499.webp",
+    "static/media/slick.svg": "/tyreplex/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tyreplex/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tyreplex/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/tyreplex/index.html",
+    "static/media/slick.woff": "/tyreplex/static/media/slick.295183786cd8a1389865.woff",
+    "main.ac325801.css.map": "/tyreplex/static/css/main.ac325801.css.map",
+    "main.2c290245.js.map": "/tyreplex/static/js/main.2c290245.js.map",
+    "453.63d7597b.chunk.js.map": "/tyreplex/static/js/453.63d7597b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac325801.css",
+    "static/js/main.2c290245.js"
+  ]
+}
